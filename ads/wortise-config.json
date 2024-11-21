@@ -1,7 +1,7 @@
 {
   "wortise": [
     {
-      "status": true,
+      "status": false,
       "message": "Wortise ad integration has been removed, please use another ad network."
     }
   ]
