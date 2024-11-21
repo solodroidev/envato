@@ -1,7 +1,7 @@
 {
   "wortise": [
     {
-      "status": false,
+      "status": true,
       "title": "Wortise Ads Discontinued",
       "message": "Wortise Ads integration has been discontinued and will be removed soon, Ad Serving will not running and your ad will not appear. Please use another Ad Network!"
     }
