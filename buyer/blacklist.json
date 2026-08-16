@@ -6,7 +6,7 @@
   },
   "blacklistData": [
     {
-      "applicationId": "com.yassintvyacinetv.tvyacine2026",
+      "applicationId": "com.solodroid.ads.sdkdemo",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
