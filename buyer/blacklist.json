@@ -1,0 +1,30 @@
+{
+  "defaultConfig": {
+    "title": "License Verification Required",
+    "message": "This app failed to verify a valid license and has been disabled.<br><br>This may occur because the app is using an invalid or unlicensed copy of the source code, or because the same license has been used for more than one published application, which is not permitted under the licensing terms.<br><br>Please ensure you are using an official, valid license and that each published application has its own dedicated license.<br><br>If you believe this is an error, please click the button below to submit a verification request.",
+    "appealFormUrl": "https://forms.gle/Cpb9yA8W8MZri1R78"
+  },
+  "blacklistData": [
+    {
+      "applicationId": "com.solodroid.ads.sdkdemo",
+      "purchaseUrl": "",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-12"
+    },
+    {
+      "applicationId": "com.yassintvyacinetv.tvyacine2026",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-06-28"
+    },
+    {
+      "applicationId": "com.yasnmatchday.sportlive",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-09"
+    }
+  ]
+}
