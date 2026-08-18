@@ -6,9 +6,9 @@
   },
   "blacklistData": [
     {
-      "applicationId": "com.yasnmatchday.sportlive",
-      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
-      "itemName": "The Stream - Live TV & Video Streaming App",
+      "applicationId": "com.app.yourradioapp6",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
+      "itemName": "Your Radio App",
       "isBlocked": true,
       "dateAdded": "2026-07-09"
     }
