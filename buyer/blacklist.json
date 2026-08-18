@@ -6,7 +6,7 @@
   },
   "blacklistData": [
     {
-      "applicationId": "com.app.yourradioapp6",
+      "applicationId": "com.example.blacklisted",
       "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
       "itemName": "Your Radio App",
       "isBlocked": true,
