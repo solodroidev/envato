@@ -6,11 +6,1054 @@
   },
   "blacklistData": [
     {
-      "applicationId": "com.example.blacklisted",
+      "applicationId": "com.codehauz.shadowhauz",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "xxxxxxx",
+      "isBlocked": true,
+      "dateAdded": "2025-07-14"
+    },
+    {
+      "applicationId": "webmasjid.awemart.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "xxxxxxx",
+      "isBlocked": true,
+      "dateAdded": "2025-07-18"
+    },
+    {
+      "applicationId": "com.amttechnology.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-29"
+    },
+    {
+      "applicationId": "com.kiratdewas.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-29"
+    },
+    {
+      "applicationId": "com.aurebytetech.wallapapp",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-29"
+    },
+    {
+      "applicationId": "com.app.weypaipers",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-30"
+    },
+    {
+      "applicationId": "com.OriginDTech.Orixel",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-31"
+    },
+    {
+      "applicationId": "com.app.mwcharalitopower",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-01"
+    },
+    {
+      "applicationId": "com.fastey.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-01"
+    },
+    {
+      "applicationId": "com.rootpro.quotepaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-03"
+    },
+    {
+      "applicationId": "com.pixelaura",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-03"
+    },
+    {
+      "applicationId": "com.fender.grs",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-03"
+    },
+    {
+      "applicationId": "com.wallpapersforuandmeshone.enjoynowh",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Test Panel License",
+      "isBlocked": true,
+      "dateAdded": "2025-08-03"
+    },
+    {
+      "applicationId": "com.hpd.houseplanssdaily",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "xxxxxxx",
+      "isBlocked": true,
+      "dateAdded": "2025-08-03"
+    },
+    {
+      "applicationId": "com.mobifunda.wallpapersystem",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-04"
+    },
+    {
+      "applicationId": "com.aiwallpapers.aiwallapers4k",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-06"
+    },
+    {
+      "applicationId": "com.aiwallpapers.aiwallapers4k54",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-06"
+    },
+    {
+      "applicationId": "com.wallpaper.tuapps",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-06"
+    },
+    {
+      "applicationId": "com.mobifunda.posefriend",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-07"
+    },
+    {
+      "applicationId": "com.swyp.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-07"
+    },
+    {
+      "applicationId": "com.aiwallpaper.generator",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-08"
+    },
+    {
+      "applicationId": "com.walpapper.wd",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-09"
+    },
+    {
+      "applicationId": "com.wallpaper.wd",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-09"
+    },
+    {
+      "applicationId": "com.app.papelux",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-10"
+    },
+    {
+      "applicationId": "com.test.android",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-11"
+    },
+    {
+      "applicationId": "com.nxtgner.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-11"
+    },
+    {
+      "applicationId": "com.dotdesh.gopaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-13"
+    },
+    {
+      "applicationId": "com.app.wallpaper_ai",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-15"
+    },
+    {
+      "applicationId": "com.mountaincabins.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-17"
+    },
+    {
+      "applicationId": "com.rsofts.aestheticwalls",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-08-19"
+    },
+    {
+      "applicationId": "com.PrincessKawaii.WallPaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-03"
+    },
+    {
+      "applicationId": "com.wallpaper.vaguada",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-08"
+    },
+    {
+      "applicationId": "com.wall.vaguada",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-08"
+    },
+    {
+      "applicationId": "com.inflexe.poseprime",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-14"
+    },
+    {
+      "applicationId": "com.app.tzyredwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-15"
+    },
+    {
+      "applicationId": "com.codeaura.pixora",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-15"
+    },
+    {
+      "applicationId": "com.lomi.wallpapers",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-18"
+    },
+    {
+      "applicationId": "com.app.sekrewlp",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-22"
+    },
+    {
+      "applicationId": "com.addissells.axum",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-24"
+    },
+    {
+      "applicationId": "com.app.radiodiindonesia",
       "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
       "itemName": "Your Radio App",
       "isBlocked": true,
-      "dateAdded": "2026-07-09"
+      "dateAdded": "2025-09-25"
+    },
+    {
+      "applicationId": "com.addissells.tibeb",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-25"
+    },
+    {
+      "applicationId": "com.addissells.zema",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-25"
+    },
+    {
+      "applicationId": "com.app.radiodiindonesia2",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
+      "itemName": "Your Radio App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-27"
+    },
+    {
+      "applicationId": "com.identity.app",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "xxxxxxx",
+      "isBlocked": true,
+      "dateAdded": "2025-10-09"
+    },
+    {
+      "applicationId": "com.ihp.application",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-10-20"
+    },
+    {
+      "applicationId": "com.liveapp.mobaryatii",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2025-11-06"
+    },
+    {
+      "applicationId": "com.gaigobar.worldnews",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "Manual Entry",
+      "isBlocked": true,
+      "dateAdded": "2025-11-06"
+    },
+    {
+      "applicationId": "com.gaigobar.scholararticles",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "Manual Entry",
+      "isBlocked": true,
+      "dateAdded": "2025-11-06"
+    },
+    {
+      "applicationId": "com.etvacancy.daily",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-04"
+    },
+    {
+      "applicationId": "com.etvacancy.hab",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-04"
+    },
+    {
+      "applicationId": "com.etvacancy.nano",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-08"
+    },
+    {
+      "applicationId": "com.etvacancy.loop",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-09"
+    },
+    {
+      "applicationId": "com.etvacancy.nexa",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-09"
+    },
+    {
+      "applicationId": "com.KAmobacher.appfoo",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-20"
+    },
+    {
+      "applicationId": "com.fulldevsupport.albaniaturistplaces",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "Albania Tourist Places",
+      "isBlocked": true,
+      "dateAdded": "2026-04-04"
+    },
+    {
+      "applicationId": "com.wallify.neonwall",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-04-06"
+    },
+    {
+      "applicationId": "com.aalishanapps.khanakaba",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Default Item",
+      "isBlocked": true,
+      "dateAdded": "2026-04-29"
+    },
+    {
+      "applicationId": "com.jyotishmarg.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-04-29"
+    },
+    {
+      "applicationId": "com.wallify.space",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-01"
+    },
+    {
+      "applicationId": "com.wallify.spacewall",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-01"
+    },
+    {
+      "applicationId": "com.wallify.abstractwall",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-02"
+    },
+    {
+      "applicationId": "com.wallify.amoled",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-02"
+    },
+    {
+      "applicationId": "com.wallify.aurora",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-02"
+    },
+    {
+      "applicationId": "com.wallify.moon",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-02"
+    },
+    {
+      "applicationId": "com.das.WallZora",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-02"
+    },
+    {
+      "applicationId": "com.wallify.sunset",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-03"
+    },
+    {
+      "applicationId": "com.aalishanapps.ashabkahf",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Default Item",
+      "isBlocked": true,
+      "dateAdded": "2026-05-04"
+    },
+    {
+      "applicationId": "com.newtechone.Bonjour",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-05-04"
+    },
+    {
+      "applicationId": "com.newtechone.Buongiorno",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-05-04"
+    },
+    {
+      "applicationId": "com.newtechone.goodmorning",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-05-05"
+    },
+    {
+      "applicationId": "com.wallify.lumiwall",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-05"
+    },
+    {
+      "applicationId": "com.newtechone.chinois",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-05-06"
+    },
+    {
+      "applicationId": "com.mab.wellpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-07"
+    },
+    {
+      "applicationId": "com.chinese.hdwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-05-09"
+    },
+    {
+      "applicationId": "com.newtechone.muslim",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-05-09"
+    },
+    {
+      "applicationId": "com.gametemplate.charactergame",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "xxxxxxx",
+      "isBlocked": true,
+      "dateAdded": "2026-05-17"
+    },
+    {
+      "applicationId": "com.app.officialmonasdiary",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-18"
+    },
+    {
+      "applicationId": "com.app.officialmonasdiary1",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-05-22"
+    },
+    {
+      "applicationId": "com.aviatorbot.app",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-05-30"
+    },
+    {
+      "applicationId": "com.arabic.dubmovies",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-05-30"
+    },
+    {
+      "applicationId": "com.premium.officialmonasdiary",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-06-01"
+    },
+    {
+      "applicationId": "emisoras.ansangue.com",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-06-06"
+    },
+    {
+      "applicationId": "com.crimestories.movies",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-06-07"
+    },
+    {
+      "applicationId": "com.abebe.topapp",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "applicationId": "com.scary.horrormovies",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-06-17"
+    },
+    {
+      "applicationId": "com.racvap.halloween.monster.costume.mystic.vampire.dark.mansion.mystery.witch.magic.haunted.scary.ghosts.magical.witches.pumpkins",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "1",
+      "isBlocked": true,
+      "dateAdded": "2026-06-17"
+    },
+    {
+      "applicationId": "com.papadroid.siji",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-06-18"
+    },
+    {
+      "applicationId": "com.tukudroid.schoolsakurawallapaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-06-26"
+    },
+    {
+      "applicationId": "com.pelicula.peliculasdeaccion",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-06-26"
+    },
+    {
+      "applicationId": "com.wallify.black",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-06-29"
+    },
+    {
+      "applicationId": "vanguardlabs.xxxwallpapers",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-07-01"
+    },
+    {
+      "applicationId": "com.papadroid.mobawall",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-07-03"
+    },
+    {
+      "applicationId": "com.anime.cartoonmovies",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-07-16"
+    },
+    {
+      "applicationId": "com.tukudroid.deptheffect3dParallaxlive",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-07-22"
+    },
+    {
+      "applicationId": "com.etvacancy.time",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-22"
+    },
+    {
+      "applicationId": "com.etvacancy.ero",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-23"
+    },
+    {
+      "applicationId": "com.etvacancy.nigaa",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-23"
+    },
+    {
+      "applicationId": "com.papadroid.sakurawallpapercartoon",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-07-27"
+    },
+    {
+      "applicationId": "com.anime.drawing",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-07-28"
+    },
+    {
+      "applicationId": "com.app.dogtraining",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.afitech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.aron",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.awi",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.elra",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.emi",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.hana",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.kerod",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.lewi",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.shegerinfo.lia",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.papadroid.solarwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-01"
+    },
+    {
+      "applicationId": "com.papadroid.phoenixwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-01"
+    },
+    {
+      "applicationId": "com.papadroid.romanticloveapp",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-01"
+    },
+    {
+      "applicationId": "com.japanesemovies.app",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-08-01"
+    },
+    {
+      "applicationId": "com.shegerinfo.yaf",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-04"
+    },
+    {
+      "applicationId": "com.shegerinfo.yana",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-04"
+    },
+    {
+      "applicationId": "com.shegerinfo.zaf",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-04"
+    },
+    {
+      "applicationId": "com.dorama.kankokudorama",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-08-06"
+    },
+    {
+      "applicationId": "com.etvacancy.mereb",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-07"
+    },
+    {
+      "applicationId": "com.tukudroid.mecharobot",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-07"
+    },
+    {
+      "applicationId": "com.tukudroid.horse",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-07"
+    },
+    {
+      "applicationId": "com.tukudroid.ios16",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-11"
+    },
+    {
+      "applicationId": "com.tukudroid.hockeynhl",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-11"
+    },
+    {
+      "applicationId": "com.tukudroid.molangcute",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-11"
+    },
+    {
+      "applicationId": "com.tukudroid.american",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-11"
+    },
+    {
+      "applicationId": "com.tukudroid.cricket",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-11"
+    },
+    {
+      "applicationId": "com.filmesdublados.filmeonline",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-08-12"
+    },
+    {
+      "applicationId": "com.doramas.coreanoschineses",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-08-12"
+    },
+    {
+      "applicationId": "com.etvacancy.adulis",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-13"
+    },
+    {
+      "applicationId": "com.knowledgegruru.chemistrynotes",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-15"
+    },
+    {
+      "applicationId": "com.knowledgeguru.chemistrynotes",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-16"
+    },
+    {
+      "applicationId": "com.app.androidebookapp700",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-17"
+    },
+    {
+      "applicationId": "com.etvacancy.lora",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-18"
+    },
+    {
+      "applicationId": "com.etvacancy.pop",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-18"
+    },
+    {
+      "applicationId": "com.etvacancy.taf",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-18"
+    },
+    {
+      "applicationId": "com.papadroid.luffy.naruto.anya.one.bleach.piece.live.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-20"
+    },
+    {
+      "applicationId": "com.papadroid.ronaldo.messi.haaland.lamineyamal.live.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-20"
+    },
+    {
+      "applicationId": "com.papadroid.spiderman.batman.ironman.live.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-20"
+    },
+    {
+      "applicationId": "com.educationalguru.weightloss",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-21"
+    },
+    {
+      "applicationId": "com.educationalguru.accountingnotes",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-22"
+    },
+    {
+      "applicationId": "com.knowledgeguru.accountingnotes",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-22"
+    },
+    {
+      "applicationId": "com.etvacancy.flip",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-23"
+    },
+    {
+      "applicationId": "com.etvacancy.suit",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-23"
+    },
+    {
+      "applicationId": "com.educationalguru.moneyguide",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-25"
+    },
+    {
+      "applicationId": "com.educationalguru.businessethics",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-29"
+    },
+    {
+      "applicationId": "com.educationalguru.financialaccounting",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-30"
+    },
+    {
+      "applicationId": "com.educationalguru.microeconomicsasdsadsa",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-30"
+    },
+    {
+      "applicationId": "com.educationalguru.businessethicsasd",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-30"
+    },
+    {
+      "applicationId": "com.educationalguru.writecv",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-30"
+    },
+    {
+      "applicationId": "com.fusion.live.wallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Your wall App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-30"
+    },
+    {
+      "applicationId": "com.educationalguru.ketodiet",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-01"
     }
   ]
 }
