@@ -167,23 +167,9 @@
       "dateAdded": "2025-08-09"
     },
     {
-      "applicationId": "com.ardisoft.fidel_tech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-08-10"
-    },
-    {
       "applicationId": "com.app.papelux",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
-      "isBlocked": true,
-      "dateAdded": "2025-08-10"
-    },
-    {
-      "applicationId": "com.ardi_soft.mesob_tech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2025-08-10"
     },
@@ -228,20 +214,6 @@
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2025-08-19"
-    },
-    {
-      "applicationId": "com.ardisoft.grace_tips",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-08-22"
-    },
-    {
-      "applicationId": "com.ardisoft.sadan_tips",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-08-29"
     },
     {
       "applicationId": "com.PrincessKawaii.WallPaper",
@@ -300,30 +272,9 @@
       "dateAdded": "2025-09-22"
     },
     {
-      "applicationId": "com.addissells.axum",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-09-24"
-    },
-    {
       "applicationId": "com.app.radiodiindonesia",
       "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
       "itemName": "Your Radio App",
-      "isBlocked": true,
-      "dateAdded": "2025-09-25"
-    },
-    {
-      "applicationId": "com.addissells.tibeb",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-09-25"
-    },
-    {
-      "applicationId": "com.addissells.zema",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2025-09-25"
     },
@@ -335,46 +286,11 @@
       "dateAdded": "2025-09-27"
     },
     {
-      "applicationId": "com.ardisoft.sata_tips",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-10-06"
-    },
-    {
-      "applicationId": "com.ardisoft.alem_tech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-10-07"
-    },
-    {
       "applicationId": "com.identity.app",
       "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
       "itemName": "xxxxxxx",
       "isBlocked": true,
       "dateAdded": "2025-10-09"
-    },
-    {
-      "applicationId": "com.ardisoft.kokeb_tech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-10-12"
-    },
-    {
-      "applicationId": "com.ardisoft.guda_tech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-10-12"
-    },
-    {
-      "applicationId": "com.ardisoft.jaba_tech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-10-13"
     },
     {
       "applicationId": "com.ihp.application",
@@ -405,48 +321,6 @@
       "dateAdded": "2025-11-06"
     },
     {
-      "applicationId": "com.ardisoft.hiba_tech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-11-18"
-    },
-    {
-      "applicationId": "com.etvacancy.daily",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-12-04"
-    },
-    {
-      "applicationId": "com.etvacancy.hab",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-12-04"
-    },
-    {
-      "applicationId": "com.etvacancy.nano",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-12-08"
-    },
-    {
-      "applicationId": "com.etvacancy.loop",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-12-09"
-    },
-    {
-      "applicationId": "com.etvacancy.nexa",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2025-12-09"
-    },
-    {
       "applicationId": "com.KAmobacher.appfoo",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
@@ -454,67 +328,11 @@
       "dateAdded": "2025-12-20"
     },
     {
-      "applicationId": "com.ardisoft.hulon_plus",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-01-01"
-    },
-    {
       "applicationId": "com.severde.ceci",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-01-30"
-    },
-    {
-      "applicationId": "com.ardisoft.suke_plus",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-02-19"
-    },
-    {
-      "applicationId": "com.ardisoft.zano_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-01"
-    },
-    {
-      "applicationId": "com.ardisoft.huda_plus",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-03"
-    },
-    {
-      "applicationId": "com.tafzone.major_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-17"
-    },
-    {
-      "applicationId": "com.tafzone.toga_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-19"
-    },
-    {
-      "applicationId": "com.tafzone.navi_star",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-23"
-    },
-    {
-      "applicationId": "com.tafzone.yoto_star",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-28"
     },
     {
       "applicationId": "com.fulldevsupport.albaniaturistplaces",
@@ -706,13 +524,6 @@
       "dateAdded": "2026-05-30"
     },
     {
-      "applicationId": "com.tafzone.tolan_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-05-30"
-    },
-    {
       "applicationId": "com.azteccc.transvol",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
@@ -723,13 +534,6 @@
       "applicationId": "com.premium.officialmonasdiary",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
-      "isBlocked": true,
-      "dateAdded": "2026-06-01"
-    },
-    {
-      "applicationId": "com.tafzone.evo_plus",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-06-01"
     },
@@ -762,13 +566,6 @@
       "dateAdded": "2026-06-17"
     },
     {
-      "applicationId": "com.tafzone.sonan_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-06-17"
-    },
-    {
       "applicationId": "com.racvap.halloween.monster.costume.mystic.vampire.dark.mansion.mystery.witch.magic.haunted.scary.ghosts.magical.witches.pumpkins",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "1",
@@ -779,13 +576,6 @@
       "applicationId": "com.papadroid.siji",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
-      "isBlocked": true,
-      "dateAdded": "2026-06-18"
-    },
-    {
-      "applicationId": "com.tafzone.sudi_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-06-18"
     },
@@ -811,13 +601,6 @@
       "dateAdded": "2026-06-29"
     },
     {
-      "applicationId": "com.tafzone.zenpro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-01"
-    },
-    {
       "applicationId": "vanguardlabs.xxxwallpapers",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
@@ -825,32 +608,11 @@
       "dateAdded": "2026-07-01"
     },
     {
-      "applicationId": "com.tafzone.nan_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-02"
-    },
-    {
-      "applicationId": "com.tafzone.numan_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-03"
-    },
-    {
       "applicationId": "com.papadroid.mobawall",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper - Premium Mode",
       "isBlocked": true,
       "dateAdded": "2026-07-03"
-    },
-    {
-      "applicationId": "com.tafzone.nor_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-05"
     },
     {
       "applicationId": "com.anime.cartoonmovies",
@@ -872,27 +634,6 @@
       "itemName": "Material Wallpaper - Premium Mode",
       "isBlocked": true,
       "dateAdded": "2026-07-22"
-    },
-    {
-      "applicationId": "com.etvacancy.time",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-22"
-    },
-    {
-      "applicationId": "com.etvacancy.ero",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-23"
-    },
-    {
-      "applicationId": "com.etvacancy.nigaa",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-23"
     },
     {
       "applicationId": "com.fufren.posi",
@@ -919,69 +660,6 @@
       "applicationId": "com.app.dogtraining",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.afitech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.aron",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.awi",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.elra",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.emi",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.hana",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.kerod",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.lewi",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "applicationId": "com.shegerinfo.lia",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-07-29"
     },
@@ -1014,39 +692,11 @@
       "dateAdded": "2026-08-01"
     },
     {
-      "applicationId": "com.shegerinfo.yaf",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-04"
-    },
-    {
-      "applicationId": "com.shegerinfo.yana",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-04"
-    },
-    {
-      "applicationId": "com.shegerinfo.zaf",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-04"
-    },
-    {
       "applicationId": "com.dorama.kankokudorama",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "Your Videos Channel",
       "isBlocked": true,
       "dateAdded": "2026-08-06"
-    },
-    {
-      "applicationId": "com.etvacancy.mereb",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-07"
     },
     {
       "applicationId": "com.tukudroid.mecharobot",
@@ -1056,32 +706,11 @@
       "dateAdded": "2026-08-07"
     },
     {
-      "applicationId": "com.tafzone.afri_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-07"
-    },
-    {
       "applicationId": "com.tukudroid.horse",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper - Premium Mode",
       "isBlocked": true,
       "dateAdded": "2026-08-07"
-    },
-    {
-      "applicationId": "com.tafzone.boku_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-07"
-    },
-    {
-      "applicationId": "com.tafzone.masa_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-08"
     },
     {
       "applicationId": "com.tukudroid.ios16",
@@ -1133,13 +762,6 @@
       "dateAdded": "2026-08-12"
     },
     {
-      "applicationId": "com.etvacancy.adulis",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-13"
-    },
-    {
       "applicationId": "com.knowledgegruru.chemistrynotes",
       "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
       "itemName": "Android Ebook App",
@@ -1159,27 +781,6 @@
       "itemName": "Android Ebook App",
       "isBlocked": true,
       "dateAdded": "2026-08-17"
-    },
-    {
-      "applicationId": "com.etvacancy.lora",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-18"
-    },
-    {
-      "applicationId": "com.etvacancy.pop",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-18"
-    },
-    {
-      "applicationId": "com.etvacancy.taf",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-18"
     },
     {
       "applicationId": "com.papadroid.luffy.naruto.anya.one.bleach.piece.live.wallpaper",
@@ -1222,20 +823,6 @@
       "itemName": "Android Ebook App",
       "isBlocked": true,
       "dateAdded": "2026-08-22"
-    },
-    {
-      "applicationId": "com.etvacancy.flip",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-23"
-    },
-    {
-      "applicationId": "com.etvacancy.suit",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-08-23"
     },
     {
       "applicationId": "com.educationalguru.moneyguide",
@@ -1304,20 +891,6 @@
       "applicationId": "com.acatiste.alesfintilor",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
-      "isBlocked": true,
-      "dateAdded": "2026-09-03"
-    },
-    {
-      "applicationId": "com.tafzone.adil_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-09-03"
-    },
-    {
-      "applicationId": "com.tafzone.lego_pro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-09-03"
     }
