@@ -893,6 +893,27 @@
       "itemName": "",
       "isBlocked": true,
       "dateAdded": "2026-09-03"
+    },
+    {
+      "applicationId": "com.educationalguru.internationalbusinessguide",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-06"
+    },
+    {
+      "applicationId": "com.educationalguru.learnaccounting",
+      "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
+      "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-06"
+    },
+    {
+      "applicationId": "com.acatiste.rugaciuni",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-06"
     }
   ]
 }
