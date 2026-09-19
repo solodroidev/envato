@@ -293,6 +293,20 @@
       "dateAdded": "2025-09-18"
     },
     {
+      "applicationId": "com.ethiotip.bunatips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-19"
+    },
+    {
+      "applicationId": "com.ethiotip.nisirtech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-19"
+    },
+    {
       "applicationId": "com.app.sekrewlp",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
@@ -307,9 +321,23 @@
       "dateAdded": "2025-09-22"
     },
     {
+      "applicationId": "com.ethiotip.nibtech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-25"
+    },
+    {
       "applicationId": "com.app.radiodiindonesia",
       "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
       "itemName": "Your Radio App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-25"
+    },
+    {
+      "applicationId": "com.ethiotip.liyuapp",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2025-09-25"
     },
@@ -349,11 +377,130 @@
       "dateAdded": "2025-11-06"
     },
     {
+      "applicationId": "com.ssstoks.royalpro",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-11-20"
+    },
+    {
+      "applicationId": "com.technewset.technewsapp",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-11-29"
+    },
+    {
+      "applicationId": "com.etfast.jokertips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-09"
+    },
+    {
+      "applicationId": "com.kemerti.wanzatips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-13"
+    },
+    {
+      "applicationId": "janotips.hageretechs.com",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-01-30"
+    },
+    {
       "applicationId": "com.severde.ceci",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-01-30"
+    },
+    {
+      "applicationId": "com.ver_peliculas.hdmovies",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-02-25"
+    },
+    {
+      "applicationId": "com.ver_peliculas.tvmovies",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-09"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.tanahd",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-17"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.grapetips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-17"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.rimatech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.qemertech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.afiyapro",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-19"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.vilatech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-19"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.minatips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-19"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.girartips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-19"
+    },
+    {
+      "applicationId": "dev.dawdotechnology.mimipro",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-19"
+    },
+    {
+      "applicationId": "com.aovivo_brasil.brasil_futebol",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-28"
     },
     {
       "applicationId": "com.fulldevsupport.albaniaturistplaces",
@@ -368,6 +515,20 @@
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2026-04-06"
+    },
+    {
+      "applicationId": "net.melatips.melatips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "applicationId": "net.melatips.admastips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-04-14"
     },
     {
       "applicationId": "com.aalishanapps.khanakaba",
@@ -503,6 +664,13 @@
       "dateAdded": "2026-05-09"
     },
     {
+      "applicationId": "com.aovivo.brasil_futebol",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-05-09"
+    },
+    {
       "applicationId": "com.newtechone.muslim",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
@@ -594,11 +762,32 @@
       "dateAdded": "2026-06-07"
     },
     {
+      "applicationId": "com.ktoon.mangacomics",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-06-08"
+    },
+    {
+      "applicationId": "com.yassine.koralive3",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-06-10"
+    },
+    {
       "applicationId": "com.abebe.topapp",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
       "isBlocked": true,
       "dateAdded": "2026-06-13"
+    },
+    {
+      "applicationId": "com.yassine.koralive4",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-06-14"
     },
     {
       "applicationId": "com.scary.horrormovies",
@@ -657,11 +846,32 @@
       "dateAdded": "2026-07-03"
     },
     {
+      "applicationId": "com.falconcast.livee",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-03"
+    },
+    {
+      "applicationId": "com.happy_tocaboca.mods_games",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-08"
+    },
+    {
       "applicationId": "com.anime.cartoonmovies",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "Your Videos Channel",
       "isBlocked": true,
       "dateAdded": "2026-07-16"
+    },
+    {
+      "applicationId": "com.falconcast.lives",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-18"
     },
     {
       "applicationId": "com.fluequis.esmevol",
@@ -711,6 +921,13 @@
       "itemName": "",
       "isBlocked": true,
       "dateAdded": "2026-07-29"
+    },
+    {
+      "applicationId": "com.bixmax.centreflixs",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-30"
     },
     {
       "applicationId": "com.papadroid.solarwallpaper",
@@ -1012,6 +1229,20 @@
       "itemName": "",
       "isBlocked": true,
       "dateAdded": "2026-09-09"
+    },
+    {
+      "applicationId": "com.ycntv.mobarayatlive",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-14"
+    },
+    {
+      "applicationId": "com.solo.codex",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-15"
     },
     {
       "applicationId": "com.thenews.goscholar",
