@@ -50,6 +50,56 @@
             "id": 16,
             "name": "Business",
             "image": ""
+         },
+        {
+            "id": 33,
+            "name": "Sport",
+            "image": ""
+         },
+         {
+            "id": 23,
+            "name": "Diaspora",
+            "image": ""
+         },
+         {
+            "id": 39,
+            "name": "Trending",
+            "image": ""
+         },
+         {
+            "id": 819,
+            "name": "Showbiz",
+            "image": ""
+         },
+         {
+            "id": 22,
+            "name": "Courts & Crime",
+            "image": ""
+         },
+         {
+            "id": 28,
+            "name": "Opinion",
+            "image": ""
+         },
+         {
+            "id": 46,
+            "name": "Africa",
+            "image": ""
+         },
+         {
+            "id": 44,
+            "name": "World",
+            "image": ""
+         },
+         {
+            "id": 58,
+            "name": "Health & Community",
+            "image": ""
+         },
+         {
+            "id": 724,
+            "name": "In Pictures",
+            "image": ""
          }
       ]
    },
