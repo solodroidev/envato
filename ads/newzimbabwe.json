@@ -37,7 +37,7 @@
       "status": true,
       "categories": [
          {
-            "id": 79,
+            "id": 37,
             "name": "Headlines",
             "image": ""
          },
@@ -151,7 +151,7 @@
       }
     },
     "placement": {
-      "banner_home": true,
+      "banner_home": false,
       "banner_post_details": true,
       "banner_category_details": true,
       "banner_search": true,
@@ -160,8 +160,8 @@
       "native_exit_dialog": true,
       "native_post_list": true,
       "native_post_details": true,
-      "app_open_ad_on_start": true,
-      "app_open_ad_on_resume": true
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
     },
     "global": {
       "interstitial_ad_interval": 3,
