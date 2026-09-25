@@ -104,15 +104,15 @@
       ]
    },
   "ads": {
-    "status": false,
+    "status": true,
     "main_ads": "admob",
     "backup_ads": "none",
     "ads_unit_id": {
       "admob": {
-        "app_open_id": "ca-app-pub-3940256099942544/9257395921X",
-        "banner_id": "ca-app-pub-3940256099942544/9214589741X",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712X",
-        "native_id": "ca-app-pub-3940256099942544/2247696110X"
+        "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+        "banner_id": "ca-app-pub-3940256099942544/9214589741",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "native_id": "ca-app-pub-3940256099942544/2247696110"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
@@ -152,14 +152,14 @@
     },
     "placement": {
       "banner_home": false,
-      "banner_post_details": true,
-      "banner_category_details": true,
-      "banner_search": true,
-      "interstitial_post_list": true,
-      "interstitial_post_details": true,
-      "native_exit_dialog": true,
-      "native_post_list": true,
-      "native_post_details": true,
+      "banner_post_details": false,
+      "banner_category_details": false,
+      "banner_search": false,
+      "interstitial_post_list": false,
+      "interstitial_post_details": false,
+      "native_exit_dialog": false,
+      "native_post_list": false,
+      "native_post_details": false,
       "app_open_ad_on_start": false,
       "app_open_ad_on_resume": false
     },
