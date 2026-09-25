@@ -104,15 +104,15 @@
       ]
    },
   "ads": {
-    "status": true,
+    "status": false,
     "main_ads": "admob",
     "backup_ads": "none",
     "ads_unit_id": {
       "admob": {
         "app_open_id": "ca-app-pub-3940256099942544/9257395921X",
-        "banner_id": "ca-app-pub-3940256099942544/9214589741",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "native_id": "ca-app-pub-3940256099942544/2247696110"
+        "banner_id": "ca-app-pub-3940256099942544/9214589741X",
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712X",
+        "native_id": "ca-app-pub-3940256099942544/2247696110X"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
