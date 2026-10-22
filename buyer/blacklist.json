@@ -6,6 +6,111 @@
   },
   "blacklistData": [
     {
+      "applicationId": "app.upmusic.radio1069",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-02"
+    },
+    {
+      "applicationId": "app.radioadonaipasco.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-02"
+    },
+    {
+      "applicationId": "app.radiopodercelestial.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-03"
+    },
+    {
+      "applicationId": "app.radioadonay87.sv",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-06"
+    },
+    {
+      "applicationId": "app.radioavance.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-06"
+    },
+    {
+      "applicationId": "app.upmusic.radio93",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-08"
+    },
+    {
+      "applicationId": "app.radiosion.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-12"
+    },
+    {
+      "applicationId": "app.elcambioturadio.hou",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-15"
+    },
+    {
+      "applicationId": "app.radiomontealto.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-17"
+    },
+    {
+      "applicationId": "app.radiolaluz.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-23"
+    },
+    {
+      "applicationId": "app.radioeternocielo.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-06-28"
+    },
+    {
+      "applicationId": "com.radio0100.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-04"
+    },
+    {
+      "applicationId": "com.radio0101.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-06"
+    },
+    {
+      "applicationId": "app.mensajerodevida.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-14"
+    },
+    {
+      "applicationId": "app.radiosplay.evangelizar",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-14"
+    },
+    {
       "applicationId": "com.codehauz.shadowhauz",
       "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
       "itemName": "xxxxxxx",
@@ -13,11 +118,39 @@
       "dateAdded": "2025-07-14"
     },
     {
+      "applicationId": "app.bethelleon.nic",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-15"
+    },
+    {
+      "applicationId": "app.laoriginalvoz.gt",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-16"
+    },
+    {
+      "applicationId": "app.radiogetsemani.hn",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-16"
+    },
+    {
       "applicationId": "webmasjid.awemart.com",
       "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
       "itemName": "xxxxxxx",
       "isBlocked": true,
       "dateAdded": "2025-07-18"
+    },
+    {
+      "applicationId": "app.elcambioturadionorteño.hou",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-21"
     },
     {
       "applicationId": "com.amttechnology.wallpaper",
@@ -48,6 +181,13 @@
       "dateAdded": "2025-07-30"
     },
     {
+      "applicationId": "com.radiosplay.flashback",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-07-31"
+    },
+    {
       "applicationId": "com.OriginDTech.Orixel",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
@@ -62,11 +202,25 @@
       "dateAdded": "2025-08-01"
     },
     {
+      "applicationId": "com.app.latidosfmradio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-01"
+    },
+    {
       "applicationId": "com.fastey.wallpaper",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2025-08-01"
+    },
+    {
+      "applicationId": "com.radiosplay.rc",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-02"
     },
     {
       "applicationId": "com.rootpro.quotepaper",
@@ -109,6 +263,13 @@
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2025-08-04"
+    },
+    {
+      "applicationId": "mngo.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-08-05"
     },
     {
       "applicationId": "com.aiwallpapers.aiwallapers4k",
@@ -188,6 +349,27 @@
       "dateAdded": "2025-08-11"
     },
     {
+      "applicationId": "tbro.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-08-11"
+    },
+    {
+      "applicationId": "com.app.vmix",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-12"
+    },
+    {
+      "applicationId": "bngbro.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-08-12"
+    },
+    {
       "applicationId": "com.dotdesh.gopaper",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
@@ -216,6 +398,27 @@
       "dateAdded": "2025-08-19"
     },
     {
+      "applicationId": "app.nuevaesperanza.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-19"
+    },
+    {
+      "applicationId": "app.podercelestial98.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-19"
+    },
+    {
+      "applicationId": "com.jml.radioesperanzafm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-22"
+    },
+    {
       "applicationId": "com.apptvbra.probra",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
@@ -230,6 +433,13 @@
       "dateAdded": "2025-08-23"
     },
     {
+      "applicationId": "app.ugadeals.channels",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2025-08-25"
+    },
+    {
       "applicationId": "com.devkobat.prolif",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
@@ -237,11 +447,109 @@
       "dateAdded": "2025-08-27"
     },
     {
+      "applicationId": "twowtd.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-08-30"
+    },
+    {
+      "applicationId": "app.stereoapocalipsis.hn",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-31"
+    },
+    {
+      "applicationId": "app.radiowspl1620am.ca",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-08-31"
+    },
+    {
+      "applicationId": "com.ugadeals.android",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2025-08-31"
+    },
+    {
+      "applicationId": "mxmob.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-09-02"
+    },
+    {
+      "applicationId": "app.radio.lovesongs",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-02"
+    },
+    {
+      "applicationId": "com.silverapps.frasesbonitasdebuenosdiassaludosdiarios",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-02"
+    },
+    {
+      "applicationId": "app.stereonorte.hn",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-03"
+    },
+    {
+      "applicationId": "crb.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-09-03"
+    },
+    {
       "applicationId": "com.PrincessKawaii.WallPaper",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2025-09-03"
+    },
+    {
+      "applicationId": "app.ipda.pr",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-04"
+    },
+    {
+      "applicationId": "app.radioalfayomega.mx",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-05"
+    },
+    {
+      "applicationId": "fbvss.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-09-05"
+    },
+    {
+      "applicationId": "app.radioebenezer.sv",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-07"
+    },
+    {
+      "applicationId": "emgo.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-09-07"
     },
     {
       "applicationId": "com.wallpaper.vaguada",
@@ -258,11 +566,53 @@
       "dateAdded": "2025-09-08"
     },
     {
+      "applicationId": "app.ipda.peru",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-08"
+    },
+    {
+      "applicationId": "app.upmusic.evangelizarfm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-08"
+    },
+    {
       "applicationId": "com.brakolife.brapro",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2025-09-08"
+    },
+    {
+      "applicationId": "wbdbrn.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-09-11"
+    },
+    {
+      "applicationId": "gtbtwo.dsecappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-09-11"
+    },
+    {
+      "applicationId": "app.upmusic.evangelizaram",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-12"
+    },
+    {
+      "applicationId": "app.radiosplay.alpha",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-13"
     },
     {
       "applicationId": "com.inflexe.poseprime",
@@ -286,7 +636,56 @@
       "dateAdded": "2025-09-15"
     },
     {
+      "applicationId": "app.radiosplay.otima",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-15"
+    },
+    {
+      "applicationId": "app.radiosplay.alegria",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-15"
+    },
+    {
+      "applicationId": "app.radiosplay.jbfm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-16"
+    },
+    {
+      "applicationId": "app.ccb.sacra",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-16"
+    },
+    {
       "applicationId": "com.lomi.wallpapers",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-18"
+    },
+    {
+      "applicationId": "xyz.mereja.hopjobs",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-09-18"
+    },
+    {
+      "applicationId": "com.app.shiriculaporadio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-18"
+    },
+    {
+      "applicationId": "com.frasesyreflexiones.saludosparatodaocasion",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
       "isBlocked": true,
@@ -321,6 +720,13 @@
       "dateAdded": "2025-09-22"
     },
     {
+      "applicationId": "app.fortalezahonduras.hn",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-23"
+    },
+    {
       "applicationId": "com.ethiotip.nibtech",
       "purchaseUrl": "https://solodroid.net/product/android-news-app/",
       "itemName": "Android News App",
@@ -349,6 +755,104 @@
       "dateAdded": "2025-09-27"
     },
     {
+      "applicationId": "app.radiosplay.radiost",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-28"
+    },
+    {
+      "applicationId": "app.radiosplay.difusora",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-28"
+    },
+    {
+      "applicationId": "app.radiosplay.sertaneja106",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-29"
+    },
+    {
+      "applicationId": "app.upmusic.liberdade",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-29"
+    },
+    {
+      "applicationId": "com.silverapps.buenosdiastardesynoches",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-30"
+    },
+    {
+      "applicationId": "com.themasterapp.everydaywishesandgreetings",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-30"
+    },
+    {
+      "applicationId": "com.frasesyreflexiones.mensajesdebuenosdiastardesynoches",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-30"
+    },
+    {
+      "applicationId": "com.themasterapp.imagenesconfrases",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-09-30"
+    },
+    {
+      "applicationId": "com.abrelo.tech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-10-04"
+    },
+    {
+      "applicationId": "net.brighttechnology.sorajobs",
+      "purchaseUrl": "https://solodroid.net/product/wordpress-news-app/",
+      "itemName": "WordPress News App",
+      "isBlocked": true,
+      "dateAdded": "2025-10-04"
+    },
+    {
+      "applicationId": "app.upmusic.itatiaia",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-06"
+    },
+    {
+      "applicationId": "gdmonf.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-10-07"
+    },
+    {
+      "applicationId": "crevvs.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-10-09"
+    },
+    {
+      "applicationId": "com.radio0102.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-09"
+    },
+    {
       "applicationId": "com.identity.app",
       "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
       "itemName": "xxxxxxx",
@@ -356,11 +860,109 @@
       "dateAdded": "2025-10-09"
     },
     {
+      "applicationId": "btvvso.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-10-09"
+    },
+    {
+      "applicationId": "egdrbro.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-10-14"
+    },
+    {
+      "applicationId": "cbovs.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-10-16"
+    },
+    {
+      "applicationId": "app.radiosplay.capital",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-18"
+    },
+    {
       "applicationId": "com.ihp.application",
       "purchaseUrl": "https://solodroid.net/product/android-news-app/",
       "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2025-10-20"
+    },
+    {
+      "applicationId": "btovs.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-10-21"
+    },
+    {
+      "applicationId": "app.upmusic.novotempo",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-21"
+    },
+    {
+      "applicationId": "app.radiosplay.novotempo",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-21"
+    },
+    {
+      "applicationId": "radionovasdepazfm.com.br",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-26"
+    },
+    {
+      "applicationId": "com.app.bole_blogs",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-10-26"
+    },
+    {
+      "applicationId": "com.themasterapps.happybirthdaywishesimages",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-10-26"
+    },
+    {
+      "applicationId": "com.themasterapps.goodnightwishesblessingsimages",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-10-26"
+    },
+    {
+      "applicationId": "app.radiosplay.marumby",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-29"
+    },
+    {
+      "applicationId": "app.radiosplay.paodavida",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-10-31"
+    },
+    {
+      "applicationId": "com.app.geda_tech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-11-04"
     },
     {
       "applicationId": "com.gaigobar.worldnews",
@@ -377,6 +979,27 @@
       "dateAdded": "2025-11-06"
     },
     {
+      "applicationId": "com.app.jalo_tech_tips",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-11-11"
+    },
+    {
+      "applicationId": "com.app.mobaryatliveappmobaryatliveapkapp",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-11-14"
+    },
+    {
+      "applicationId": "bngod.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-11-18"
+    },
+    {
       "applicationId": "com.ssstoks.royalpro",
       "purchaseUrl": "https://solodroid.net/product/android-news-app/",
       "itemName": "Android News App",
@@ -384,18 +1007,67 @@
       "dateAdded": "2025-11-20"
     },
     {
-      "applicationId": "com.technewset.technewsapp",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "mwob.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
       "isBlocked": true,
-      "dateAdded": "2025-11-29"
+      "dateAdded": "2025-11-24"
     },
     {
-      "applicationId": "com.etfast.jokertips",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "fbo.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
       "isBlocked": true,
-      "dateAdded": "2025-12-09"
+      "dateAdded": "2025-11-25"
+    },
+    {
+      "applicationId": "gtob.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-11-27"
+    },
+    {
+      "applicationId": "wton.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-11-28"
+    },
+    {
+      "applicationId": "eamo.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-12-01"
+    },
+    {
+      "applicationId": "rfbvs.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-12-02"
+    },
+    {
+      "applicationId": "btovs.dinoappsbrasil.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-12-02"
+    },
+    {
+      "applicationId": "sdlz.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2025-12-04"
+    },
+    {
+      "applicationId": "com.fmgenesis1049.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-12-11"
     },
     {
       "applicationId": "com.kemerti.wanzatips",
@@ -405,9 +1077,191 @@
       "dateAdded": "2025-12-13"
     },
     {
-      "applicationId": "janotips.hageretechs.com",
+      "applicationId": "com.app.mlvnews",
       "purchaseUrl": "https://solodroid.net/product/android-news-app/",
       "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-24"
+    },
+    {
+      "applicationId": "app.majestadradio.hn",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-12-27"
+    },
+    {
+      "applicationId": "app.lavozcelestial.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-12-27"
+    },
+    {
+      "applicationId": "com.app.BiplobiJuly",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2025-12-29"
+    },
+    {
+      "applicationId": "com.vamiral.vamiral",
+      "purchaseUrl": "https://solodroid.net/product/webdroid-android-webview-app/",
+      "itemName": "WebDroid - Android WebView App",
+      "isBlocked": true,
+      "dateAdded": "2026-01-02"
+    },
+    {
+      "applicationId": "mngof.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-06"
+    },
+    {
+      "applicationId": "mvbo.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-07"
+    },
+    {
+      "applicationId": "fbodevso.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-07"
+    },
+    {
+      "applicationId": "com.estrellaborrada.guada",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-16"
+    },
+    {
+      "applicationId": "com.radio.verbenaasturianaradio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-01-19"
+    },
+    {
+      "applicationId": "com.radio.dancexl",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-01-19"
+    },
+    {
+      "applicationId": "com.radio.playa107fm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-01-19"
+    },
+    {
+      "applicationId": "pbso.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-19"
+    },
+    {
+      "applicationId": "pbrmdp.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-20"
+    },
+    {
+      "applicationId": "msde.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-20"
+    },
+    {
+      "applicationId": "bmgd.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-20"
+    },
+    {
+      "applicationId": "edacem.jomartechapps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-21"
+    },
+    {
+      "applicationId": "com.radio.rumberosfm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-01-21"
+    },
+    {
+      "applicationId": "com.radio.radio7alcoy",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-01-21"
+    },
+    {
+      "applicationId": "com.verp.camioner",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-22"
+    },
+    {
+      "applicationId": "com.aplira.quintu",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-22"
+    },
+    {
+      "applicationId": "com.radio.ilusionradioenarquillos",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-01-22"
+    },
+    {
+      "applicationId": "gdmnfo.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-23"
+    },
+    {
+      "applicationId": "fsbr.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-26"
+    },
+    {
+      "applicationId": "bseb.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-27"
+    },
+    {
+      "applicationId": "appbr.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-27"
+    },
+    {
+      "applicationId": "tbco.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
       "isBlocked": true,
       "dateAdded": "2026-01-30"
     },
@@ -419,11 +1273,116 @@
       "dateAdded": "2026-01-30"
     },
     {
+      "applicationId": "mwdt.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-02-03"
+    },
+    {
+      "applicationId": "crmp.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-02-04"
+    },
+    {
+      "applicationId": "app.belenradio.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-02-07"
+    },
+    {
+      "applicationId": "com.radio0104.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-02-09"
+    },
+    {
+      "applicationId": "com.app.mobaryatscrorlivetodaymatchstv",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-02-11"
+    },
+    {
+      "applicationId": "app.radionuevavida.zarvex",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-02-18"
+    },
+    {
+      "applicationId": "com.app.deshpulse",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-02-22"
+    },
+    {
+      "applicationId": "com.app.BongoBrief",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-02-22"
+    },
+    {
+      "applicationId": "com.app.deshbarta",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-02-22"
+    },
+    {
       "applicationId": "com.ver_peliculas.hdmovies",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-02-25"
+    },
+    {
+      "applicationId": "eagmo.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-04"
+    },
+    {
+      "applicationId": "com.app.Orientalfeed",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-05"
+    },
+    {
+      "applicationId": "tmbo.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-06"
+    },
+    {
+      "applicationId": "com.radio0079.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-03-07"
+    },
+    {
+      "applicationId": "mwotdg.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-07"
+    },
+    {
+      "applicationId": "app.ugadeals.series",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-03-08"
     },
     {
       "applicationId": "com.ver_peliculas.tvmovies",
@@ -433,67 +1392,95 @@
       "dateAdded": "2026-03-09"
     },
     {
-      "applicationId": "dev.dawdotechnology.tanahd",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "csbr.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-09"
+    },
+    {
+      "applicationId": "gecvdrp.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-11"
+    },
+    {
+      "applicationId": "tecs.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-13"
+    },
+    {
+      "applicationId": "supsb.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-13"
+    },
+    {
+      "applicationId": "emeco.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-14"
+    },
+    {
+      "applicationId": "eds.brcstudiobr.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-14"
+    },
+    {
+      "applicationId": "com.app.launicacallasay",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-03-16"
+    },
+    {
+      "applicationId": "com.radio.indiefm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
       "isBlocked": true,
       "dateAdded": "2026-03-17"
     },
     {
-      "applicationId": "dev.dawdotechnology.grapetips",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "app.lavozpentecostes.com",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
       "isBlocked": true,
       "dateAdded": "2026-03-17"
     },
     {
-      "applicationId": "dev.dawdotechnology.rimatech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "com.radios.estudio16radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
       "isBlocked": true,
-      "dateAdded": "2026-03-18"
+      "dateAdded": "2026-03-22"
     },
     {
-      "applicationId": "dev.dawdotechnology.qemertech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "eamec.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
       "isBlocked": true,
-      "dateAdded": "2026-03-18"
+      "dateAdded": "2026-03-23"
     },
     {
-      "applicationId": "dev.dawdotechnology.afiyapro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "mdgo.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
       "isBlocked": true,
-      "dateAdded": "2026-03-19"
+      "dateAdded": "2026-03-26"
     },
     {
-      "applicationId": "dev.dawdotechnology.vilatech",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
+      "applicationId": "com.radios.activahits",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
       "isBlocked": true,
-      "dateAdded": "2026-03-19"
-    },
-    {
-      "applicationId": "dev.dawdotechnology.minatips",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-19"
-    },
-    {
-      "applicationId": "dev.dawdotechnology.girartips",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-19"
-    },
-    {
-      "applicationId": "dev.dawdotechnology.mimipro",
-      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
-      "itemName": "Android News App",
-      "isBlocked": true,
-      "dateAdded": "2026-03-19"
+      "dateAdded": "2026-03-27"
     },
     {
       "applicationId": "com.aovivo_brasil.brasil_futebol",
@@ -501,6 +1488,62 @@
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-03-28"
+    },
+    {
+      "applicationId": "com.radio.solfmcordoba",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-03-28"
+    },
+    {
+      "applicationId": "com.radio.yuhfm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-03-30"
+    },
+    {
+      "applicationId": "com.radio.konectafm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-03-30"
+    },
+    {
+      "applicationId": "com.radio.radiomarcahuelva",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-03-31"
+    },
+    {
+      "applicationId": "fsn.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-03-31"
+    },
+    {
+      "applicationId": "com.radio.radiomaceda",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-03-31"
+    },
+    {
+      "applicationId": "com.radio.radiosureste",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-04-01"
+    },
+    {
+      "applicationId": "com.radio.esradiorm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-04-01"
     },
     {
       "applicationId": "com.fulldevsupport.albaniaturistplaces",
@@ -517,11 +1560,32 @@
       "dateAdded": "2026-04-06"
     },
     {
-      "applicationId": "net.melatips.melatips",
+      "applicationId": "com.qaroosoft.aratkilo",
       "purchaseUrl": "https://solodroid.net/product/android-news-app/",
       "itemName": "Android News App",
       "isBlocked": true,
-      "dateAdded": "2026-04-13"
+      "dateAdded": "2026-04-08"
+    },
+    {
+      "applicationId": "com.app.kralivekorascoreapp",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-04-09"
+    },
+    {
+      "applicationId": "com.app.elanpro",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-04-11"
+    },
+    {
+      "applicationId": "app.nuevacadena.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-04-12"
     },
     {
       "applicationId": "net.melatips.admastips",
@@ -529,6 +1593,48 @@
       "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-04-14"
+    },
+    {
+      "applicationId": "mvbto.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-04-15"
+    },
+    {
+      "applicationId": "com.radio0105.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-04-16"
+    },
+    {
+      "applicationId": "com.app.BanglaScope",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-04-19"
+    },
+    {
+      "applicationId": "com.app.sanantoniozumba",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-04-21"
+    },
+    {
+      "applicationId": "com.app.matchlivetvsmatchtodaylives",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-04-22"
+    },
+    {
+      "applicationId": "com.frasesyreflexiones.buenasnoches",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-04-25"
     },
     {
       "applicationId": "com.aalishanapps.khanakaba",
@@ -615,6 +1721,13 @@
       "dateAdded": "2026-05-04"
     },
     {
+      "applicationId": "com.quimundo.guada",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-05-04"
+    },
+    {
       "applicationId": "com.newtechone.Buongiorno",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
@@ -643,6 +1756,13 @@
       "dateAdded": "2026-05-05"
     },
     {
+      "applicationId": "epbo.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-05-06"
+    },
+    {
       "applicationId": "com.newtechone.chinois",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
@@ -655,6 +1775,20 @@
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2026-05-07"
+    },
+    {
+      "applicationId": "com.app.mobaryatapkappmobaryatkoralivetv",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-05-07"
+    },
+    {
+      "applicationId": "app.buenasnuevas.pe",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-05-08"
     },
     {
       "applicationId": "com.chinese.hdwallpaper",
@@ -678,11 +1812,32 @@
       "dateAdded": "2026-05-09"
     },
     {
+      "applicationId": "com.channelmobarayatappt.telfazlivetvlimoniya",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-05-12"
+    },
+    {
       "applicationId": "com.arabicDRAMALIVEteamgost.TVyassinaovivoprooz",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-05-14"
+    },
+    {
+      "applicationId": "com.radio0106.radio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-05-14"
+    },
+    {
+      "applicationId": "com.app.tivanotvlivescore",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-05-15"
     },
     {
       "applicationId": "com.gametemplate.charactergame",
@@ -699,6 +1854,13 @@
       "dateAdded": "2026-05-18"
     },
     {
+      "applicationId": "app.ipda.rj",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-05-22"
+    },
+    {
       "applicationId": "com.app.officialmonasdiary1",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
@@ -706,11 +1868,25 @@
       "dateAdded": "2026-05-22"
     },
     {
+      "applicationId": "com.app.radiolvc933fm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-05-23"
+    },
+    {
       "applicationId": "com.ver_peliculas.tvmoviess",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-05-24"
+    },
+    {
+      "applicationId": "btm.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-05-26"
     },
     {
       "applicationId": "com.aviatorbot.app",
@@ -776,6 +1952,27 @@
       "dateAdded": "2026-06-10"
     },
     {
+      "applicationId": "com.newappRene.buenosdiasparatodalasemana",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-06-12"
+    },
+    {
+      "applicationId": "com.gutenmorgenbilder.goodmorningwishes",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-06-12"
+    },
+    {
+      "applicationId": "com.dailywishesandblessings.goodmorningafternoonnight",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-06-13"
+    },
+    {
       "applicationId": "com.abebe.topapp",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
@@ -811,9 +2008,30 @@
       "dateAdded": "2026-06-18"
     },
     {
+      "applicationId": "app.radio.flashback",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-06-25"
+    },
+    {
+      "applicationId": "com.app.radiofoal",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-06-26"
+    },
+    {
       "applicationId": "com.tukudroid.schoolsakurawallapaper",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-06-26"
+    },
+    {
+      "applicationId": "com.app.pulsewire",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-06-26"
     },
@@ -825,11 +2043,39 @@
       "dateAdded": "2026-06-26"
     },
     {
+      "applicationId": "com.app.mineaseller",
+      "purchaseUrl": "https://solodroid.net/product/webdroidlite-lightweight-android-webview-app-single-page-website/",
+      "itemName": "WebDroidLite - Lightweight Android WebView App - Single Page Website",
+      "isBlocked": true,
+      "dateAdded": "2026-06-27"
+    },
+    {
+      "applicationId": "com.app.mineacustomer",
+      "purchaseUrl": "https://solodroid.net/product/webdroidlite-lightweight-android-webview-app-single-page-website/",
+      "itemName": "WebDroidLite - Lightweight Android WebView App - Single Page Website",
+      "isBlocked": true,
+      "dateAdded": "2026-06-27"
+    },
+    {
       "applicationId": "com.wallify.black",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2026-06-29"
+    },
+    {
+      "applicationId": "bbar.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-06-30"
+    },
+    {
+      "applicationId": "com.app.macarastereofm",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-07-01"
     },
     {
       "applicationId": "vanguardlabs.xxxwallpapers",
@@ -853,11 +2099,60 @@
       "dateAdded": "2026-07-03"
     },
     {
+      "applicationId": "earp.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-07-04"
+    },
+    {
+      "applicationId": "crte.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-07-07"
+    },
+    {
       "applicationId": "com.happy_tocaboca.mods_games",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-07-08"
+    },
+    {
+      "applicationId": "com.flashback.rock",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-07-11"
+    },
+    {
+      "applicationId": "tfsmb.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-07-14"
+    },
+    {
+      "applicationId": "com.app.motiamo",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-14"
+    },
+    {
+      "applicationId": " com.app.rdialogue",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-15"
+    },
+    {
+      "applicationId": "com.app.rdialogue",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-15"
     },
     {
       "applicationId": "com.anime.cartoonmovies",
@@ -881,6 +2176,27 @@
       "dateAdded": "2026-07-19"
     },
     {
+      "applicationId": "com.qaroo.cosypro",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-21"
+    },
+    {
+      "applicationId": "com.reina.guadasur",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-07-21"
+    },
+    {
+      "applicationId": "app.radioemanuel.org",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-07-21"
+    },
+    {
       "applicationId": "com.tukudroid.deptheffect3dParallaxlive",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper - Premium Mode",
@@ -893,6 +2209,27 @@
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-07-23"
+    },
+    {
+      "applicationId": "com.furii.tech",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-24"
+    },
+    {
+      "applicationId": "com.app.radiosanteci",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-26"
+    },
+    {
+      "applicationId": "com.app.rgarkuwa",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-27"
     },
     {
       "applicationId": "com.trt_televizyon.canlitvizle",
@@ -916,6 +2253,13 @@
       "dateAdded": "2026-07-28"
     },
     {
+      "applicationId": "tfsm.studiodlzgames.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-07-28"
+    },
+    {
       "applicationId": "com.app.dogtraining",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
@@ -923,11 +2267,32 @@
       "dateAdded": "2026-07-29"
     },
     {
+      "applicationId": "mecm.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-07-30"
+    },
+    {
       "applicationId": "com.bixmax.centreflixs",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-07-30"
+    },
+    {
+      "applicationId": "app.radiorevelacion.org",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-07-30"
+    },
+    {
+      "applicationId": "com.devvasapps.akwalhikamkadafimaamarwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-07-31"
     },
     {
       "applicationId": "com.papadroid.solarwallpaper",
@@ -956,6 +2321,13 @@
       "itemName": "Your Videos Channel",
       "isBlocked": true,
       "dateAdded": "2026-08-01"
+    },
+    {
+      "applicationId": "com.app.poderosaradio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-08-04"
     },
     {
       "applicationId": "com.falconcast.livecast",
@@ -1000,6 +2372,13 @@
       "dateAdded": "2026-08-08"
     },
     {
+      "applicationId": "com.app.livematchtodayscormatch",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-09"
+    },
+    {
       "applicationId": "com.tukudroid.ios16",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper - Premium Mode",
@@ -1017,6 +2396,13 @@
       "applicationId": "com.tukudroid.molangcute",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper - Premium Mode",
+      "isBlocked": true,
+      "dateAdded": "2026-08-11"
+    },
+    {
+      "applicationId": "com.sefbuy.tvapp",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-08-11"
     },
@@ -1049,6 +2435,13 @@
       "dateAdded": "2026-08-12"
     },
     {
+      "applicationId": "com.sertanejo.classicos",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-08-13"
+    },
+    {
       "applicationId": "com.knowledgegruru.chemistrynotes",
       "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
       "itemName": "Android Ebook App",
@@ -1059,6 +2452,13 @@
       "applicationId": "com.knowledgeguru.chemistrynotes",
       "purchaseUrl": "https://solodroid.net/product/android-ebook-app/",
       "itemName": "Android Ebook App",
+      "isBlocked": true,
+      "dateAdded": "2026-08-16"
+    },
+    {
+      "applicationId": "com.devvasapps.pesefootballsettings",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2026-08-16"
     },
@@ -1075,6 +2475,20 @@
       "itemName": "Android Ebook App",
       "isBlocked": true,
       "dateAdded": "2026-08-17"
+    },
+    {
+      "applicationId": "emat.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-08-17"
+    },
+    {
+      "applicationId": "com.devvasapps.marccucurellacutwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-08-19"
     },
     {
       "applicationId": "com.papadroid.luffy.naruto.anya.one.bleach.piece.live.wallpaper",
@@ -1124,6 +2538,20 @@
       "itemName": "Android Ebook App",
       "isBlocked": true,
       "dateAdded": "2026-08-25"
+    },
+    {
+      "applicationId": "app.conexionradio.hn",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-08-27"
+    },
+    {
+      "applicationId": "gtsb.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-08-28"
     },
     {
       "applicationId": "com.educationalguru.businessethics",
@@ -1231,6 +2659,20 @@
       "dateAdded": "2026-09-09"
     },
     {
+      "applicationId": "com.mk1.CatecismodelaIglesiaCatolica",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-10"
+    },
+    {
+      "applicationId": "com.mk1.MorningPrayersandDailyRosary",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-12"
+    },
+    {
       "applicationId": "com.ycntv.mobarayatlive",
       "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
       "itemName": "The Stream - Live TV & Video Streaming App",
@@ -1257,6 +2699,286 @@
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-09-16"
+    },
+    {
+      "applicationId": "com.mk1.bibliaaudio",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-18"
+    },
+    {
+      "applicationId": "Com.propia.app",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-19"
+    },
+    {
+      "applicationId": "com.minea.sellerapp",
+      "purchaseUrl": "https://solodroid.net/product/webdroidlite-lightweight-android-webview-app-single-page-website/",
+      "itemName": "WebDroidLite - Lightweight Android WebView App - Single Page Website",
+      "isBlocked": true,
+      "dateAdded": "2026-09-19"
+    },
+    {
+      "applicationId": "net.brighttechnology.sora",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-19"
+    },
+    {
+      "applicationId": "com.mk1.TheBookOfJudith",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-20"
+    },
+    {
+      "applicationId": "com.turkk.stu",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-09-21"
+    },
+    {
+      "applicationId": "com.gamesbundle.arcadegames",
+      "purchaseUrl": "https://solodroid.net/product/webdroid-android-webview-app/",
+      "itemName": "WebDroid - Android WebView App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-22"
+    },
+    {
+      "applicationId": "com.mk1.AudioSermonsTozer",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-24"
+    },
+    {
+      "applicationId": "com.just2ok.allnigeriafmradio",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
+      "itemName": "Your Radio App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-26"
+    },
+    {
+      "applicationId": "com.mk1.Basmesipovestipentrucopii",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-26"
+    },
+    {
+      "applicationId": "com.ugadeals.socialapp",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-27"
+    },
+    {
+      "applicationId": "com.papadroid.yasa.miga.wallpaper.live.pets.cute.town",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-09-27"
+    },
+    {
+      "applicationId": "com.yarika.app",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-27"
+    },
+    {
+      "applicationId": "net.brighttechnology.anews",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-27"
+    },
+    {
+      "applicationId": "com.app.telfazapptvtelfazchaneslappa",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-28"
+    },
+    {
+      "applicationId": "com.mk1.TheWisdomofSolomon",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-29"
+    },
+    {
+      "applicationId": "com.mk1.TheBookOfTobit",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-09-29"
+    },
+    {
+      "applicationId": "com.playtofly.worldonline",
+      "purchaseUrl": "https://solodroid.net/product/webdroid-android-webview-app/",
+      "itemName": "WebDroid - Android WebView App",
+      "isBlocked": true,
+      "dateAdded": "2026-09-30"
+    },
+    {
+      "applicationId": "com.mk1.Audiofiabeperbambini",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-01"
+    },
+    {
+      "applicationId": "com.mk1.WinstonChurchillSpeeches",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-02"
+    },
+    {
+      "applicationId": "com.app.digitaldeoria",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-03"
+    },
+    {
+      "applicationId": "com.mk1.TheHolyBookofMormon",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-03"
+    },
+    {
+      "applicationId": "com.tukudroid.mechamato.boboiboy.robot.wallpaper.live",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-10-03"
+    },
+    {
+      "applicationId": "teoo.pitacomps.com",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "WebDroidX - Android WebView App with Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-10-04"
+    },
+    {
+      "applicationId": "com.mk1.ThePearlofGreatPrice",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-06"
+    },
+    {
+      "applicationId": "com.mk1.ThePursuitofGodTozer",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-07"
+    },
+    {
+      "applicationId": "com.mk1.theimitationofchrist",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-09"
+    },
+    {
+      "applicationId": "com.echodiv.dianaromavideos",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-10-09"
+    },
+    {
+      "applicationId": "com.mk1.TheEthiopicBookofEnoch",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-09"
+    },
+    {
+      "applicationId": "com.vid.mistermax",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-10-09"
+    },
+    {
+      "applicationId": "com.app.vuelo22tv",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-10-11"
+    },
+    {
+      "applicationId": "gaskiatv",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-10-11"
+    },
+    {
+      "applicationId": "com.app.gaskiatv",
+      "purchaseUrl": "https://solodroid.net/product/android-news-app/",
+      "itemName": "Android News App",
+      "isBlocked": true,
+      "dateAdded": "2026-10-11"
+    },
+    {
+      "applicationId": "com.mk1.TheBooksoftheMaccabees",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-12"
+    },
+    {
+      "applicationId": "com.echodiv.dianaandromavideos",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-10-12"
+    },
+    {
+      "applicationId": "com.echodiv.nastyadianastaysi",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-10-12"
+    },
+    {
+      "applicationId": "com.app.radioexpression",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app/",
+      "itemName": "Your Radio App",
+      "isBlocked": true,
+      "dateAdded": "2026-10-15"
+    },
+    {
+      "applicationId": "com.mk1.thefirstbookadameve",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-10-15"
+    },
+    {
+      "applicationId": "com.appnovelasq.pes",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-10-16"
+    },
+    {
+      "applicationId": "app.radiosplay.ipda",
+      "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
+      "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2026-10-17"
     }
   ]
 }
