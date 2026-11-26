@@ -125,6 +125,27 @@
       "dateAdded": "2025-07-06"
     },
     {
+      "applicationId": "com.appsdeveloper.purplewallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-13"
+    },
+    {
+      "applicationId": "com.appsdeveloper.Pinkwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-13"
+    },
+    {
+      "applicationId": "com.appsdeveloper.kittywallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-14"
+    },
+    {
       "applicationId": "app.mensajerodevida.pe",
       "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
       "itemName": "Your Radio App (Single Station)",
@@ -179,6 +200,13 @@
       "itemName": "Your Radio App (Single Station)",
       "isBlocked": true,
       "dateAdded": "2025-07-21"
+    },
+    {
+      "applicationId": "com.appsdeveloper.pinkaestheticwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2025-07-28"
     },
     {
       "applicationId": "com.amttechnology.wallpaper",
@@ -410,6 +438,13 @@
       "itemName": "Material Wallpaper",
       "isBlocked": true,
       "dateAdded": "2025-08-13"
+    },
+    {
+      "applicationId": "com.southmoviess.hindidub",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2025-08-15"
     },
     {
       "applicationId": "com.app.wallpaper_ai",
@@ -653,6 +688,13 @@
       "applicationId": "app.radiosplay.alpha",
       "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
       "itemName": "Your Radio App (Single Station)",
+      "isBlocked": true,
+      "dateAdded": "2025-09-13"
+    },
+    {
+      "applicationId": "com.southmovies.inhindiapp",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "",
       "isBlocked": true,
       "dateAdded": "2025-09-13"
     },
@@ -1028,6 +1070,13 @@
       "dateAdded": "2025-11-04"
     },
     {
+      "applicationId": "com.chinese.cdrama",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2025-11-05"
+    },
+    {
       "applicationId": "com.blackdiamondea.livechristmasnewyear4k",
       "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
       "itemName": "Material Wallpaper",
@@ -1101,6 +1150,13 @@
       "applicationId": "com.martaap.q102",
       "purchaseUrl": "https://solodroid.net/product/blogger-radio-app-blogger-api-v3/",
       "itemName": "Blogger Radio App - Blogger API v3",
+      "isBlocked": true,
+      "dateAdded": "2025-11-11"
+    },
+    {
+      "applicationId": "com.drama.pakistanidrama",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
       "isBlocked": true,
       "dateAdded": "2025-11-11"
     },
@@ -1231,6 +1287,13 @@
       "dateAdded": "2025-12-15"
     },
     {
+      "applicationId": "com.pkdrama.pakistanidrama",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2025-12-23"
+    },
+    {
       "applicationId": "com.app.mlvnews",
       "purchaseUrl": "https://solodroid.net/product/android-news-app/",
       "itemName": "Android News App",
@@ -1313,6 +1376,20 @@
       "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-01-10"
+    },
+    {
+      "applicationId": "tamil.chat.fm",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "Avchats - Tamil Android App Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-10"
+    },
+    {
+      "applicationId": "gujarati.chat.fm",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "Avchats - Tamil Android App Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-11"
     },
     {
       "applicationId": "com.estrellaborrada.guada",
@@ -1441,6 +1518,13 @@
       "dateAdded": "2026-01-27"
     },
     {
+      "applicationId": "com.drama.turkishdrama",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-01-29"
+    },
+    {
       "applicationId": "tbco.studiodlzgames.com",
       "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
       "itemName": "WebDroidX - Android WebView App with Admin Panel",
@@ -1537,6 +1621,34 @@
       "itemName": "The Stream - Live TV & Video Streaming App",
       "isBlocked": true,
       "dateAdded": "2026-02-25"
+    },
+    {
+      "applicationId": "com.appsdeveloper.winterwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-02-26"
+    },
+    {
+      "applicationId": "com.appsdeveloper.springwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-02-26"
+    },
+    {
+      "applicationId": "com.appsdeveloper.amoledwallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-02-26"
+    },
+    {
+      "applicationId": "com.appsdeveloper.teddywallpaper",
+      "purchaseUrl": "https://solodroid.net/product/material-wallpaper/",
+      "itemName": "Material Wallpaper",
+      "isBlocked": true,
+      "dateAdded": "2026-02-26"
     },
     {
       "applicationId": "com.thewallmad.cutecatwallpaper",
@@ -2050,13 +2162,6 @@
       "dateAdded": "2026-05-12"
     },
     {
-      "applicationId": "com.arabicDRAMALIVEteamgost.TVyassinaovivoprooz",
-      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
-      "itemName": "The Stream - Live TV & Video Streaming App",
-      "isBlocked": true,
-      "dateAdded": "2026-05-14"
-    },
-    {
       "applicationId": "com.radio0106.radio",
       "purchaseUrl": "https://solodroid.net/product/your-radio-app-single-station/",
       "itemName": "Your Radio App (Single Station)",
@@ -2221,6 +2326,13 @@
       "applicationId": "com.abebe.topapp",
       "purchaseUrl": "https://solodroid.net/product/",
       "itemName": "",
+      "isBlocked": true,
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "applicationId": "com.kdrama.dramabox",
+      "purchaseUrl": "https://solodroid.net/product/",
+      "itemName": "Your Videos Channel",
       "isBlocked": true,
       "dateAdded": "2026-06-13"
     },
@@ -2475,6 +2587,20 @@
       "itemName": "Android News App",
       "isBlocked": true,
       "dateAdded": "2026-07-24"
+    },
+    {
+      "applicationId": "com.hohitargtemaovivofutebol.protv",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-24"
+    },
+    {
+      "applicationId": "com.TVMexicofutbolenvivoproapps.temappja",
+      "purchaseUrl": "https://solodroid.net/product/the-stream-live-tv-video-streaming-app/",
+      "itemName": "The Stream - Live TV & Video Streaming App",
+      "isBlocked": true,
+      "dateAdded": "2026-07-25"
     },
     {
       "applicationId": "com.app.radiosanteci",
@@ -3462,6 +3588,34 @@
       "itemName": "Blogger Radio App - Blogger API v3",
       "isBlocked": true,
       "dateAdded": "2026-11-12"
+    },
+    {
+      "applicationId": "com.hollywoodmovies.hindidubbed",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-11-19"
+    },
+    {
+      "applicationId": "com.anime.wallpapersapp",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-11-21"
+    },
+    {
+      "applicationId": "com.southmovieapp.hindidubbed",
+      "purchaseUrl": "https://solodroid.net/product/your-videos-channel/",
+      "itemName": "Your Videos Channel",
+      "isBlocked": true,
+      "dateAdded": "2026-11-21"
+    },
+    {
+      "applicationId": "bengali.chat.fm",
+      "purchaseUrl": "https://solodroid.net/product/webdroidx-android-webview-app-with-admin-panel/",
+      "itemName": "Avchats - Tamil Android App Admin Panel",
+      "isBlocked": true,
+      "dateAdded": "2026-11-25"
     }
   ]
 }
